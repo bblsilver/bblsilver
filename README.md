@@ -1,3 +1,3 @@
 <div align="center">
-  <img src="https://media.tenor.com/JmnC-JeTsgcAAAAC/drake-iceman.gif" width="400"/>
+  <img src="https://media.tenor.com/JmnC-JeTsgcAAAAC/drake-iceman.gif" width="600"/>
 </div>   
